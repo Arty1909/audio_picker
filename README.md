@@ -21,3 +21,5 @@ Allows users to input and send text messages.
 Audio File Picker: Users can attach audio files using the file picker, which gets displayed as part of the chat messages.
 Message Bubble: Displays text and audio messages. For audio messages, playback controls (play/pause and stop) are provided.
 Message Class: A data model representing a message. It contains fields for text, sender information, audio file path, and audio file name.
+
+<img src="https://github.com/Arty1909/ChatWidgets/blob/main/Screenshot%202024-06-23%20010150.png"/>
