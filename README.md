@@ -23,3 +23,5 @@ Message Bubble: Displays text and audio messages. For audio messages, playback c
 Message Class: A data model representing a message. It contains fields for text, sender information, audio file path, and audio file name.
 
 <img src="https://github.com/Arty1909/audio_picker/blob/main/Screenshot%202024-07-14%20035936.png"/>
+
+Demo vido: [https://t.me/Lil_Arty_work/35](https://www.youtube.com/watch?v=FDhTQ0hT2W0&ab_channel=Arty)
