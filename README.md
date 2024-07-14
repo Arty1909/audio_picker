@@ -24,4 +24,4 @@ Message Class: A data model representing a message. It contains fields for text,
 
 <img src="https://github.com/Arty1909/audio_picker/blob/main/Screenshot%202024-07-14%20035936.png"/>
 
-Demo vido: (https://www.youtube.com/watch?v=FDhTQ0hT2W0&ab_channel=Arty)
+Demo vido: https://www.youtube.com/watch?v=FDhTQ0hT2W0&ab_channel=Arty
